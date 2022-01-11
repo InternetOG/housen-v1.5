@@ -1,0 +1,55 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Gordita', sans-serif;
+	cursor: pointer;
+}
+
+body {
+	border: 50px solid #6935FD;
+}
+
+#brand-color{
+	color: #6935FD;
+}
+
+#brand-color:hover{
+	color: #18a0fb;
+}
+
+.text-body{
+	color: red;
+}
+
+.text-body:hover {
+	text-decoration: underline;
+	text-decoration-color: 	#18a0fb;
+}
+
+#login-color{
+	color: #6935FD;
+	border: 1px solid #6935FD;
+	box-sizing: border-box;
+	border-radius: 2px;
+}
+
+#login-color:hover{
+	text-decoration: underline;
+	text-decoration-color: 	#18a0fb;
+}
+
+.form-control {
+	width: 400px;
+	border-style: none;
+}
+
+.form-border:hover {
+	border: 1px solid #18a0fb;
+	border-style: none;
+	/*width: 	400px;*/
+}
+
+.hover-element:hover {
+	text-decoration: underline;
+	text-decoration-color: #18a0fb;
+}
